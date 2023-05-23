@@ -1,0 +1,3 @@
+﻿  bai_2.cpp
+D:\TTT\vscode\OOP\bai_tap_le_304_15\bai_2\bai_2\cSGK.h(48,40): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  bai_2.vcxproj -> D:\TTT\vscode\OOP\bai_tap_le_304_15\bai_2\x64\Debug\bai_2.exe

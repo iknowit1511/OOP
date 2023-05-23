@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  cHinhTron.cpp
+D:\TTT\vscode\OOP\hinh_tron\hinh_tron\cHinhTron.cpp(15,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\TTT\vscode\OOP\hinh_tron\hinh_tron\cHinhTron.cpp(19,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  hinh_tron.vcxproj -> D:\TTT\vscode\OOP\hinh_tron\x64\Debug\hinh_tron.exe

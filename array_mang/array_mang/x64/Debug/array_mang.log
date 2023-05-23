@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  array.cpp
+D:\TTT\vscode\OOP\array_mang\array_mang\array.cpp(4,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+D:\TTT\vscode\OOP\array_mang\array_mang\array.cpp(37): warning C4715: 'carray::tim_so_am': not all control paths return a value
+  array_mang.vcxproj -> D:\TTT\vscode\OOP\array_mang\x64\Debug\array_mang.exe
